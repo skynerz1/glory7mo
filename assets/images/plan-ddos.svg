@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="22px" viewBox="0 0 17 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>plan-ddos</title>
+    <g id="MINECRAFT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-373.000000, -1115.000000)">
+            <g id="Banner" transform="translate(302.000000, 183.000000)">
+                <g id="10-Plans" transform="translate(46.000000, 761.000000)">
+                    <g id="plan-ddos" transform="translate(25.000000, 172.000000)">
+                        <path d="M8.39130435,20 C14.826087,16.6956522 15.7826087,14.5217391 15.7826087,7.82608696 L15.7826087,2.60869565 L8.39130435,0 L1,2.60869565 L1,7.82608696 C1,14.5217391 1.95652174,16.7826087 8.39130435,20 Z" id="_Path_" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <polyline id="Path" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="3.60869565 8.69565217 7.08695652 12.173913 13.173913 6.08695652"></polyline>
+                        <rect id="Rectangle" x="0" y="3" width="16" height="16"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
